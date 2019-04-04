@@ -30,3 +30,17 @@
 *.exe
 *.out
 *.app
+
+# ide
+.vscode/
+
+# cmake stuff
+CMakeCache.txt
+CMakeFiles/
+CTestTestfile.cmake
+Makefile
+cmake_install.cmake
+
+# executables
+UnitTests
+blockreader
